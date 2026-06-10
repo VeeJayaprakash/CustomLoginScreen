@@ -4,15 +4,7 @@ A login screen built in pure SwiftUI, featuring a stretchy image that responds f
 
 ## Demo
 
-<!--
-To embed your screen recording:
-1. Open this README in GitHub's web editor
-2. Drag and drop your .mp4 or .mov file (under 10 MB) directly into the editor
-3. GitHub uploads it and inserts a playable video link automatically
-Replace this comment with that link.
--->
-
-https://github.com/user-attachments/assets/your-video-id-here
+https://github.com/user-attachments/assets/c75867f7-fed0-4d08-8388-0c15fae95e26
 
 ## Behavior
 
