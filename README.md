@@ -2,9 +2,11 @@
 
 A login screen built in pure SwiftUI, featuring a stretchy image that responds fluidly to scrolling, rubber-band panning, and keyboard presentation — with **zero keyboard observers, zero PreferenceKeys, and zero manual offset math**.
 
-## Demo
-
+## LoginView 
 https://github.com/user-attachments/assets/c75867f7-fed0-4d08-8388-0c15fae95e26
+
+## LoginView 2 - Another variant.
+https://github.com/user-attachments/assets/22d96cad-6fcd-499e-bb54-51ad63cbe378
 
 ## Behavior
 
